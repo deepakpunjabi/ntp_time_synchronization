@@ -1,0 +1,1277 @@
+[('10.14.92.170', 7845), ('10.14.92.144', 7878), ('10.14.92.141', 7845)]
+('10.14.1.153', 7845)
+pollThread called
+getSinceEpoch returning time as 
+1460878894957713
+Poll Thread started
+getSinceEpoch returning time as 
+1460878894958064
+getSinceEpoch returning time as 
+1460878894958207
+Peer Thread started
+ peerThread called
+Waiting to receive data at peerThreadWaiting for thread to joingetSinceEpoch returning time as 
+
+1460878894958347
+
+getSinceEpoch returning time as 
+1460878894958490
+getSinceEpoch returning time as 
+1460878895290474
+Received ts1
+1460878894958064
+16908 days, 7:41:34.958064
+Received ts2
+1460878916272922
+16908 days, 7:41:56.272922
+Received ts3
+1460878916273067
+16908 days, 7:41:56.273067
+Received ts4
+1460878895290474
+16908 days, 7:41:35.290474
+Minimum delay offset 21148725.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460878895294153
+Received ts1
+1460878894958207
+16908 days, 7:41:34.958207
+Received ts2
+1460878916273109
+16908 days, 7:41:56.273109
+Received ts3
+1460878916273128
+16908 days, 7:41:56.273128
+Received ts4
+1460878895294153
+16908 days, 7:41:35.294153
+Minimum delay offset 21146938.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460878895294393
+Received ts1
+1460878894958347
+16908 days, 7:41:34.958347
+Received ts2
+1460878916273163
+16908 days, 7:41:56.273163
+Received ts3
+1460878916273181
+16908 days, 7:41:56.273181
+Received ts4
+1460878895294393
+16908 days, 7:41:35.294393
+Minimum delay offset 21146802.0
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460878895294513
+Received ts1
+1460878894958490
+16908 days, 7:41:34.958490
+Received ts2
+1460878916273215
+16908 days, 7:41:56.273215
+Received ts3
+1460878916273232
+16908 days, 7:41:56.273232
+Received ts4
+1460878895294513
+16908 days, 7:41:35.294513
+Minimum delay offset 21146722.0
+Waiting to receive data at peerThread
+Printing lists in pollProc
+[21148725.5, 21146938.5, 21146802.0, 21146722.0]
+[332265, 335927, 336028, 336006]
+getSinceEpoch returning time as 
+1460878895959941
+getSinceEpoch returning time as 
+1460878895960203
+getSinceEpoch returning time as 
+1460878895960300
+getSinceEpoch returning time as 
+1460878895960383
+getSinceEpoch returning time as 
+1460878895960461
+Printing lists in pollProc
+[]
+[]
+Exception caught min() arg is an empty sequence
+getSinceEpoch returning time as 
+1460878896961776
+getSinceEpoch returning time as 
+1460878896962028
+getSinceEpoch returning time as 
+1460878896962116
+getSinceEpoch returning time as 
+1460878896962187
+getSinceEpoch returning time as 
+1460878896962254
+getSinceEpoch returning time as 
+1460878896968527
+Received ts1
+1460878896961776
+16908 days, 7:41:36.961776
+Received ts2
+1460878868985220
+16908 days, 7:41:08.985220
+Received ts3
+1460878868985282
+16908 days, 7:41:08.985282
+Received ts4
+1460878896968527
+16908 days, 7:41:36.968527
+Minimum delay offset -27979900.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460878896969250
+Received ts1
+1460878896962028
+16908 days, 7:41:36.962028
+Received ts2
+1460878868986039
+16908 days, 7:41:08.986039
+Received ts3
+1460878868986062
+16908 days, 7:41:08.986062
+Received ts4
+1460878896969250
+16908 days, 7:41:36.969250
+Minimum delay offset -27979588.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460878896969434
+Received ts1
+1460878896962116
+16908 days, 7:41:36.962116
+Received ts2
+1460878868986902
+16908 days, 7:41:08.986902
+Received ts3
+1460878868986923
+16908 days, 7:41:08.986923
+Received ts4
+1460878896969434
+16908 days, 7:41:36.969434
+Minimum delay offset -27978862.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460878896969550
+Received ts1
+1460878896962187
+16908 days, 7:41:36.962187
+Received ts2
+1460878868986957
+16908 days, 7:41:08.986957
+Received ts3
+1460878868986975
+16908 days, 7:41:08.986975
+Received ts4
+1460878896969550
+16908 days, 7:41:36.969550
+Minimum delay offset -27978902.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460878896969659
+Received ts1
+1460878896962254
+16908 days, 7:41:36.962254
+Received ts2
+14608788689Sun Apr 17 07:41:10 IST 2016
+87007
+16908 days, 7:41:08.987007
+Received ts3
+1460878868987025
+16908 days, 7:41:08.987025
+Received ts4
+1460878896969659
+16908 days, 7:41:36.969659
+Minimum delay offset -27978940.5
+Waiting to receive data at peerThread
+Printing lists in pollProc
+[-27979900.5, -27979588.5, -27978862.5, -27978902.5, -27978940.5]
+[6689, 7199, 7297, 7345, 7387]
+Sending input to getTimeToAdjust: 
+[[21148725.5, 332265], [-27979900.5, 6689]]
+[1100.8700347149672, 439.6299580328893]
+getTimeToAdjust start =================
+[[21148725.5, 332265], [-27979900.5, 6689]]
+[[20816460.5, 21480990.5], [-27986589.5, -27973211.5]]
+-27986589.5
+21480990.5
+[[21148725.5, 332265], [-27979900.5, 6689]]
+[[21148725.5, 332265], [-27979900.5, 6689]]
+x: 
+332265
+1/x[1] 3.00964591516e-06
+y: 3.00964591516e-06
+x: 
+6689
+1/x[1] 0.000149499177755
+y: 0.00015250882367
+y: 0.00015250882367
+6556.99766045
+-27010384.3435
+getTimeToAdjust end =================
+adjustment factor after delay -27010384.3435
+=========================================
+Adjusting final time to 2016-04-17 07:41:10.953508
+=========================================
+
+
+
+
+
+
+
+
+
+
+getSinceEpoch returning time as 
+1460878935018786
+getSinceEpoch returning time as 
+1460878935019045
+getSinceEpoch returning time as 
+1460878935019135
+getSinceEpoch returning time as 
+1460878935019213
+getSinceEpoch returning time as 
+1460878935019286
+getSinceEpoch returning time as 
+1460878935024611
+Received ts1
+1460878935018786
+16908 days, 7:42:15.018786
+Received ts2
+1460878983034850
+16908 days, 7:43:03.034850
+Received ts3
+1460878983034908
+16908 days, 7:43:03.034908
+Received ts4
+1460878935024611
+16908 days, 7:42:15.024611
+Minimum delay offset 48013180.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460878935029425
+Received ts1
+1460878935019045
+16908 days, 7:42:15.019045
+Received ts2
+1460878983037801
+16908 days, 7:43:03.037801
+Received ts3
+1460878983037825
+16908 days, 7:43:03.037825
+Received ts4
+1460878935029425
+16908 days, 7:42:15.029425
+Minimum delay offset 48013578.0
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460878935030090
+Received ts1
+1460878935019135
+16908 days, 7:42:15.019135
+Received ts2
+1460878983040619
+16908 days, 7:43:03.040619
+Received ts3
+1460878983040645
+16908 days, 7:43:03.040645
+Received ts4
+1460878935030090
+16908 days, 7:42:15.030090
+Minimum delay offset 48016019.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460878935030273
+Received ts1
+1460878935019213
+16908 days, 7:42:15.019213
+Received ts2
+1460878983040682
+16908 days, 7:43:03.040682
+Received ts3
+1460878983040701
+16908 days, 7:43:03.040701
+Received ts4
+1460878935030273
+16908 days, 7:42:15.030273
+Minimum delay offset 48015948.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460878935030389
+Received ts1
+1460878935019286
+16908 days, 7:42:15.019286
+Received ts2
+1460878983040739
+16908 days, 7:43:03.040739
+Received ts3
+1460878983040757
+16908 days, 7:43:03.040757
+Received ts4
+1460878935030389
+16908 days, 7:42:15.030389
+Minimum delay offset 48015910.5
+Waiting to receive data at peerThread
+Printing lists in pollProc
+[48013180.5, 48013578.0, 48016019.5, 48015948.5, 48015910.5]
+[5767, 10356, 10929, 11041, 11085]
+getSinceEpoch returning time as 
+1460878936020688
+getSinceEpoch returning time as 
+1460878936020916
+getSinceEpoch returning time as 
+1460878936021074
+getSinceEpoch returning time as 
+1460878936021144
+getSinceEpoch returning time as 
+1460878936021210
+Printing lists in pollProc
+[]
+[]
+Exception caught min() arg is an empty sequence
+getSinceEpoch returning time as 
+1460878937022514
+getSinceEpoch returning time as 
+1460878937022772
+getSinceEpoch returning time as 
+1460878937022947
+getSinceEpoch returning time as 
+1460878937023027
+getSinceEpoch returning time as 
+1460878937023102
+getSinceEpoch returning time as 
+1460878937026389
+Received ts1
+1460878937022514
+16908 days, 7:42:17.022514
+Received ts2
+1460878936073386
+16908 days, 7:42:16.073386
+Received ts3
+1460878936073445
+16908 days, 7:42:16.073445
+Received ts4
+1460878937026389
+16908 days, 7:42:17.026389
+Minimum delay offset -951Sun Apr 17 07:42:36 IST 2016
+036.0
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460878937027755
+Received ts1
+1460878937022772
+16908 days, 7:42:17.022772
+Received ts2
+1460878936074308
+16908 days, 7:42:16.074308
+Received ts3
+1460878936074330
+16908 days, 7:42:16.074330
+Received ts4
+1460878937027755
+16908 days, 7:42:17.027755
+Minimum delay offset -950944.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460878937032591
+Received ts1
+1460878937022947
+16908 days, 7:42:17.022947
+Received ts2
+1460878936078935
+16908 days, 7:42:16.078935
+Received ts3
+1460878936078957
+16908 days, 7:42:16.078957
+Received ts4
+1460878937032591
+16908 days, 7:42:17.032591
+Minimum delay offset -948823.0
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460878937032831
+Received ts1
+1460878937023027
+16908 days, 7:42:17.023027
+Received ts2
+1460878936078992
+16908 days, 7:42:16.078992
+Received ts3
+1460878936079010
+16908 days, 7:42:16.079010
+Received ts4
+1460878937032831
+16908 days, 7:42:17.032831
+Minimum delay offset -948928.0
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460878937032972
+Received ts1
+1460878937023102
+16908 days, 7:42:17.023102
+Received ts2
+1460878936079042
+16908 days, 7:42:16.079042
+Received ts3
+1460878936079059
+16908 days, 7:42:16.079059
+Received ts4
+1460878937032972
+16908 days, 7:42:17.032972
+Minimum delay offset -948986.5
+Waiting to receive data at peerThread
+Printing lists in pollProc
+[-951036.0, -950944.5, -948823.0, -948928.0, -948986.5]
+[3816, 4961, 9622, 9786, 9853]
+Sending input to getTimeToAdjust: 
+[[48013180.5, 5767], [-951036.0, 3816]]
+[1207.5970781369917, 920.2532090408596]
+getTimeToAdjust start =================
+[[48013180.5, 5767], [-951036.0, 3816]]
+[[48007413.5, 48018947.5], [-954852.0, -947220.0]]
+-954852.0
+48018947.5
+[[48013180.5, 5767], [-951036.0, 3816]]
+[[48013180.5, 5767], [-951036.0, 3816]]
+x: 
+5767
+1/x[1] 0.000173400381481
+y: 0.000173400381481
+x: 
+3816
+1/x[1] 0.000262054507338
+y: 0.000435454888818
+y: 0.000435454888818
+2296.44912867
+18546767.419
+getTimeToAdjust end =================
+adjustment factor after delay 18546767.419
+=========================================
+Adjusting final time to 2016-04-17 07:42:36.571458
+=========================================
+
+
+
+
+
+
+
+
+
+
+getSinceEpoch returning time as 
+1460879020591443
+getSinceEpoch returning time as 
+1460879020591696
+getSinceEpoch returning time as 
+1460879020591780
+getSinceEpoch returning time as 
+1460879020591861
+getSinceEpoch returning time as 
+1460879020591928
+getSinceEpoch returning time as 
+1460879020597034
+Received ts1
+1460879020591443
+16908 days, 7:43:40.591443
+Received ts2
+1460879050074596
+16908 days, 7:44:10.074596
+Received ts3
+1460879050074779
+16908 days, 7:44:10.074779
+Received ts4
+1460879020597034
+16908 days, 7:43:40.597034
+Minimum delay offset 29480449.0
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879020598964
+Received ts1
+1460879020591696
+16908 days, 7:43:40.591696
+Received ts2
+1460879050076640
+16908 days, 7:44:10.076640
+Received ts3
+1460879050076755
+16908 days, 7:44:10.076755
+Received ts4
+1460879020598964
+16908 days, 7:43:40.598964
+Minimum delay offset 29481367.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879020605240
+Received ts1
+1460879020591780
+16908 days, 7:43:40.591780
+Received ts2
+1460879050082772
+16908 days, 7:44:10.082772
+Received ts3
+1460879050082987
+16908 days, 7:44:10.082987
+Received ts4
+1460879020605240
+16908 days, 7:43:40.605240
+Minimum delay offset 29484369.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879020605403
+Received ts1
+1460879020591861
+16908 days, 7:43:40.591861
+Received ts2
+1460879050084161
+16908 days, 7:44:10.084161
+Received ts3
+1460879050084202
+16908 days, 7:44:10.084202
+Received ts4
+1460879020605403
+16908 days, 7:43:40.605403
+Minimum delay offset 29485549.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879020605507
+Received ts1
+1460879020591928
+16908 days, 7:43:40.591928
+Received ts2
+1460879050085025
+16908 days, 7:44:10.085025
+Received ts3
+Sun Apr 17 07:44:00 IST 2016
+1460879050085067
+16908 days, 7:44:10.085067
+Received ts4
+1460879020605507
+16908 days, 7:43:40.605507
+Minimum delay offset 29486328.5
+Waiting to receive data at peerThread
+Printing lists in pollProc
+[29480449.0, 29481367.5, 29484369.5, 29485549.5, 29486328.5]
+[5408, 7153, 13245, 13501, 13537]
+getSinceEpoch returning time as 
+1460879021593324
+getSinceEpoch returning time as 
+1460879021593593
+getSinceEpoch returning time as 
+1460879021593689
+getSinceEpoch returning time as 
+1460879021593768
+getSinceEpoch returning time as 
+1460879021593839
+Printing lists in pollProc
+[]
+[]
+Exception caught min() arg is an empty sequence
+getSinceEpoch returning time as 
+1460879022595162
+getSinceEpoch returning time as 
+1460879022595416
+getSinceEpoch returning time as 
+1460879022595508
+getSinceEpoch returning time as 
+1460879022595585
+getSinceEpoch returning time as 
+1460879022595658
+getSinceEpoch returning time as 
+1460879022610790
+Received ts1
+1460879022595162
+16908 days, 7:43:42.595162
+Received ts2
+1460879003128457
+16908 days, 7:43:23.128457
+Received ts3
+1460879003128519
+16908 days, 7:43:23.128519
+Received ts4
+1460879022610790
+16908 days, 7:43:42.610790
+Minimum delay offset -19474488.0
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879022611280
+Received ts1
+1460879022595416
+16908 days, 7:43:42.595416
+Received ts2
+1460879003128824
+16908 days, 7:43:23.128824
+Received ts3
+1460879003128847
+16908 days, 7:43:23.128847
+Received ts4
+1460879022611280
+16908 days, 7:43:42.611280
+Minimum delay offset -19474512.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879022612695
+Received ts1
+1460879022595508
+16908 days, 7:43:42.595508
+Received ts2
+1460879003130591
+16908 days, 7:43:23.130591
+Received ts3
+1460879003130613
+16908 days, 7:43:23.130613
+Received ts4
+1460879022612695
+16908 days, 7:43:42.612695
+Minimum delay offset -19473499.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879022613440
+Received ts1
+1460879022595585
+16908 days, 7:43:42.595585
+Received ts2
+1460879003130647
+16908 days, 7:43:23.130647
+Received ts3
+1460879003130665
+16908 days, 7:43:23.130665
+Received ts4
+1460879022613440
+16908 days, 7:43:42.613440
+Minimum delay offset -19473856.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879022613621
+Received ts1
+1460879022595658
+16908 days, 7:43:42.595658
+Received ts2
+1460879003130698
+16908 days, 7:43:23.130698
+Received ts3
+1460879003130715
+16908 days, 7:43:23.130715
+Received ts4
+1460879022613621
+16908 days, 7:43:42.613621
+Minimum delay offset -19473933.0
+Waiting to receive data at peerThread
+Printing lists in pollProc
+[-19474488.0, -19474512.5, -19473499.5, -19473856.5, -19473933.0]
+[15566, 15841, 17165, 17837, 17946]
+Sending input to getTimeToAdjust: 
+[[29480449.0, 5408], [-19474488.0, 15566]]
+[2190.8557546082307, 324.47551429191077]
+getTimeToAdjust start =================
+[[29480449.0, 5408], [-19474488.0, 15566]]
+[[29475041.0, 29485857.0], [-19490054.0, -19458922.0]]
+-19490054.0
+29485857.0
+[[29480449.0, 5408], [-19474488.0, 15566]]
+[[29480449.0, 5408], [-19474488.0, 15566]]
+x: 
+5408
+1/x[1] 0.000184911242604
+y: 0.000184911242604
+x: 
+15566
+1/x[1] 6.4242579982e-05
+y: 0.000249153822586
+y: 0.000249153822586
+4013.5848193
+16857759.0364
+getTimeToAdjust end =================
+adjustment factor after delay 16857759.0364
+=========================================
+Adjusting final time to 2016-04-17 07:44:00.455299
+=========================================
+
+
+
+
+
+
+
+
+
+
+getSinceEpoch returning time as 
+1460879104519783
+getSinceEpoch returning time as 
+1460879104520046
+getSinceEpoch returning time as 
+1460879104520131
+getSinceEpoch returning time as 
+1460879104520187
+getSinceEpoch returning time as 
+1460879104520237
+getSinceEpoch returning time as 
+1460879104522207
+Received ts1
+1460879104519783
+16908 days, 7:45:04.519783
+Received ts2
+1460879117162088
+16908 days, 7:45:17.162088
+Received ts3
+1460879117162152
+16908 days, 7:45:17.162152
+Received ts4
+1460879104522207
+16908 days, 7:45:04.522207
+Minimum delay offset 12641125.0
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879104531409
+Received ts1
+1460879104520046
+16908 days, 7:45:04.520046
+Received ts2
+1460879117168567
+16908 days, 7:45:17.168567
+Received ts3
+1460879117168591
+16908 days, 7:45:17.168591
+Received ts4
+1460879104531409
+16908 days, 7:45:04.531409
+Minimum delay offset 12642851.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879104531879
+Received ts1
+1460879104520131
+16908 days, 7:45:04.520131
+Received ts2
+1460879117169538
+16908 days, 7:45:17.169538
+Received ts3
+1460879117169560
+16908 days, 7:45:17.169560
+Received ts4
+1460879104531879
+16908 days, 7:45:04.531879
+Minimum delay offset 12643544.0
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879104532081
+Received ts1
+1460879104520187
+16908 days, 7:45:04.520187
+Received ts2
+1460879117170524
+16908 days, 7:45:17.170524
+Received ts3
+1460879117170547
+16908 days, 7:45:17.170547
+Received ts4
+1460879104532081
+16908 days, 7:45:04.532081
+Minimum delay offset 12644401.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879104532187
+Received ts1
+1460879104520237
+16908 days, 7:45:04.520237
+Received ts2
+1460879117170583
+16908 days, 7:45:17.170583
+Received ts3
+1460879117170601
+16908 days, 7:45:17.170601
+Received ts4
+1460879104532187
+16908 days, 7:45:04.532187
+Minimum delay offset 12644380.0
+Waiting to receive data at peerThread
+Printing lists in pollProc
+[12641125.0, 12642851.5, 12643544.0, 12644401.5, 12644380.0]
+[2360, 11339, 11726, 11871, 11932]
+getSinceEpoch returning time as 
+1460879105521644
+getSinceEpoch returning time as 
+1460879105521911
+getSinceEpoch returning time as 
+1460879105522007
+getSinceEpoch returning time as 
+1460879105522086
+getSinceEpoch returning time as 
+1460879105522159
+Printing lists in pollProc
+[]
+[]
+Exception caught min() arg is an empty sequence
+getSinceEpoch returning time as 
+1460879106523470
+getSinceEpoch returning time as 
+1460879106523725
+getSinceEpoch returning time as 
+1460879106523819
+getSinceEpoch returning time as 
+1460879106523897
+getSinceEpoch returning time as 
+1460879106523970
+getSinceEpoch returning time as 
+1460879106526409
+Received ts1
+1460879106523470
+16908 days, 7:45:06.523470
+Received ts2
+1460879070203363
+16908 days, 7:44:30.203363
+Received ts3
+1460879070203426
+16908 days, 7:44:30.203426
+Received ts4
+1460879106526409
+16908 days, 7:45:06.526409
+Minimum delay offset -36321545.0
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879106527984
+Received ts1
+1460879106523725
+16908 days, 7:45:06.523725
+Received ts2
+1460879070204237
+16908 days, 7:44:30.204237
+Received ts3
+1460879070204259
+16908 days, 7:44:30.204259
+Received ts4
+1460879106527984
+16908 days, 7:45:06.527984
+Minimum delay offset -36321606.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879106528274
+Received ts1
+1460879106523819
+16908 days, 7:45:06.523819
+Received ts2
+1460879070205575
+16908 days, 7:44:30.205575
+Received ts3
+1460879070205597
+16908 days, 7:44:30.205597
+Received ts4
+1460879106528274
+16908 days, 7:45:06.528274
+Minimum delay offset -36320460.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879106528454
+Received ts1
+1460879106523897
+16908 days, 7:45:06.523897
+Received ts2
+1460879070205631
+16908 days, 7:44:30.205631
+Received ts3
+1460879070205649
+16908 days, 7:44:30.205649
+Received ts4
+1460879106528454
+16908 days, 7:45:06.528454
+Minimum delay offset -36320535.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879106528562
+Received ts1
+1460879106523970
+16908 days, 7:45:06.523970
+Received ts2
+1460879070205681
+16908 days, 7:44:30.205681
+Received ts3
+1460879070205699
+16908 days, 7:44:30.205699
+Received ts4
+1460879106528562
+16908 days, 7:45:06.528562
+Minimum delay offset -36320576.0
+Waiting to receive data at peerThread
+Printing lists in pollProc
+[-36321545.0, -36321606.5, -36320460.5, -36320535.5, -36320576.0]
+[2876, 4237, 4433, 4539, 4574]
+Sending input to getTimeToAdjust: 
+[[12641125.0, 2360], [-36321545.0, 2876]]
+[1373.01767332034, 442.8581707217334]
+getTimeToAdjustSun Apr 17 07:44:58 IST 2016
+ start =================
+[[12641125.0, 2360], [-36321545.0, 2876]]
+[[12638765.0, 12643485.0], [-36324421.0, -36318669.0]]
+-36324421.0
+12643485.0
+[[12641125.0, 2360], [-36321545.0, 2876]]
+[[12641125.0, 2360], [-36321545.0, 2876]]
+x: 
+2360
+1/x[1] 0.000423728813559
+y: 0.000423728813559
+x: 
+2876
+1/x[1] 0.000347705146036
+y: 0.000771433959595
+y: 0.000771433959595
+1296.28724217
+-9427610.90527
+getTimeToAdjust end =================
+adjustment factor after delay -9427610.90527
+=========================================
+Adjusting final time to 2016-04-17 07:44:58.098141
+=========================================
+
+
+
+
+
+
+
+
+
+
+getSinceEpoch returning time as 
+1460879162130802
+getSinceEpoch returning time as 
+1460879162131097
+getSinceEpoch returning time as 
+1460879162131190
+getSinceEpoch returning time as 
+1460879162131249
+getSinceEpoch returning time as 
+1460879162131329
+getSinceEpoch returning time as 
+1460879162135235
+Received ts1
+1460879162130802
+16908 days, 7:46:02.130802
+Received ts2
+1460879184219615
+16908 days, 7:46:24.219615
+Received ts3
+1460879184219689
+16908 days, 7:46:24.219689
+Received ts4
+1460879162135235
+16908 days, 7:46:02.135235
+Minimum delay offset 22086633.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879162139287
+Received ts1
+1460879162131097
+16908 days, 7:46:02.131097
+Received ts2
+1460879184223611
+16908 days, 7:46:24.223611
+Received ts3
+1460879184223669
+16908 days, 7:46:24.223669
+Received ts4
+1460879162139287
+16908 days, 7:46:02.139287
+Minimum delay offset 22088448.0
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879162139584
+Received ts1
+1460879162131190
+16908 days, 7:46:02.131190
+Received ts2
+1460879184224619
+16908 days, 7:46:24.224619
+Received ts3
+1460879184224636
+16908 days, 7:46:24.224636
+Received ts4
+1460879162139584
+16908 days, 7:46:02.139584
+Minimum delay offset 22089240.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879162139786
+Received ts1
+1460879162131249
+16908 days, 7:46:02.131249
+Received ts2
+1460879184225700
+16908 days, 7:46:24.225700
+Received ts3
+1460879184225717
+16908 days, 7:46:24.225717
+Received ts4
+1460879162139786
+16908 days, 7:46:02.139786
+Minimum delay offset 22090191.0
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879162139898
+Received ts1
+1460879162131329
+16908 days, 7:46:02.131329
+Received ts2
+1460879184225743
+16908 days, 7:46:24.225743
+Received ts3
+1460879184225755
+16908 days, 7:46:24.225755
+Received ts4
+1460879162139898
+16908 days, 7:46:02.139898
+Minimum delay offset 22090135.5
+Waiting to receive data at peerThread
+Printing lists in pollProc
+[22086633.5, 22088448.0, 22089240.5, 22090191.0, 22090135.5]
+[4359, 8132, 8377, 8520, 8557]
+getSinceEpoch returning time as 
+1460879163132815
+getSinceEpoch returning time as 
+1460879163133075
+getSinceEpoch returning time as 
+1460879163133170
+getSinceEpoch returning time as 
+1460879163133248
+getSinceEpoch returning time as 
+1460879163133321
+Printing lists in pollProc
+[]
+[]
+Exception caught min() arg is an empty sequence
+getSinceEpoch returning time as 
+1460879164134594
+getSinceEpoch returning time as 
+1460879164134854
+getSinceEpoch returning time as 
+1460879164134960
+getSinceEpoch returning time as 
+1460879164135049
+getSinceEpoch returning time as 
+1460879164135167
+getSinceEpoch returning time as 
+1460879164138383
+Received ts1
+1460879164134594
+16908 days, 7:46:04.134594
+Received ts2
+1460879137261012
+16908 days, 7:45:37.261012
+Received ts3
+1460879137261076
+16908 days, 7:45:37.261076
+Received ts4
+1460879164138383
+16908 days, 7:46:04.138383
+Minimum delay offset -26875444.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879164138779
+Received ts1
+1460879164134854
+16908 days, 7:46:04.134854
+Received ts2
+1460879137261865
+16908 days, 7:45:37.261865
+Received ts3
+1460879137261887
+16908 days, 7:45:37.261887
+Received ts4
+1460879164138779
+16908 days, 7:46:04.138779
+Minimum delay offset -26874940.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879164138916
+Received ts1
+1460879164134960
+16908 days,Sun Apr 17 07:46:00 IST 2016
+ 7:46:04.134960
+Received ts2
+1460879137262712
+16908 days, 7:45:37.262712
+Received ts3
+1460879137262734
+16908 days, 7:45:37.262734
+Received ts4
+1460879164138916
+16908 days, 7:46:04.138916
+Minimum delay offset -26874215.0
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879164139166
+Received ts1
+1460879164135049
+16908 days, 7:46:04.135049
+Received ts2
+1460879137262768
+16908 days, 7:45:37.262768
+Received ts3
+1460879137262786
+16908 days, 7:45:37.262786
+Received ts4
+1460879164139166
+16908 days, 7:46:04.139166
+Minimum delay offset -26874330.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879164139347
+Received ts1
+1460879164135167
+16908 days, 7:46:04.135167
+Received ts2
+1460879137262818
+16908 days, 7:45:37.262818
+Received ts3
+1460879137262835
+16908 days, 7:45:37.262835
+Received ts4
+1460879164139347
+16908 days, 7:46:04.139347
+Minimum delay offset -26874430.5
+Waiting to receive data at peerThread
+Printing lists in pollProc
+[-26875444.5, -26874940.5, -26874215.0, -26874330.5, -26874430.5]
+[3725, 3903, 3934, 4099, 4163]
+Sending input to getTimeToAdjust: 
+[[22086633.5, 4359], [-26875444.5, 3725]]
+[1479.2031110533806, 502.1751593069892]
+getTimeToAdjust start =================
+[[22086633.5, 4359], [-26875444.5, 3725]]
+[[22082274.5, 22090992.5], [-26879169.5, -26871719.5]]
+-26879169.5
+22090992.5
+[[22086633.5, 4359], [-26875444.5, 3725]]
+[[22086633.5, 4359], [-26875444.5, 3725]]
+x: 
+4359
+1/x[1] 0.000229410415233
+y: 0.000229410415233
+x: 
+3725
+1/x[1] 0.000268456375839
+y: 0.000497866791072
+y: 0.000497866791072
+2008.56939634
+-4314368.23206
+getTimeToAdjust end =================
+adjustment factor after delay -4314368.23206
+=========================================
+Adjusting final time to 2016-04-17 07:46:00.822732
+=========================================
+
+
+
+
+
+
+
+
+
+
+getSinceEpoch returning time as 
+1460879224889116
+getSinceEpoch returning time as 
+1460879224889360
+getSinceEpoch returning time as 
+1460879224889444
+getSinceEpoch returning time as 
+1460879224889511
+getSinceEpoch returning time as 
+1460879224889564
+getSinceEpoch returning time as 
+1460879224892788
+Received ts1
+1460879224889116
+16908 days, 7:47:04.889116
+Received ts2
+1460879251309976
+16908 days, 7:47:31.309976
+Received ts3
+1460879251310039
+16908 days, 7:47:31.310039
+Received ts4
+1460879224892788
+16908 days, 7:47:04.892788
+Minimum delay offset 26419055.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879224898122
+Received ts1
+1460879224889360
+16908 days, 7:47:04.889360
+Received ts2
+1460879251313936
+16908 days, 7:47:31.313936
+Received ts3
+1460879251313960
+16908 days, 7:47:31.313960
+Received ts4
+1460879224898122
+16908 days, 7:47:04.898122
+Minimum delay offset 26420207.0
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879224899701
+Received ts1
+1460879224889444
+16908 days, 7:47:04.889444
+Received ts2
+1460879251315332
+16908 days, 7:47:31.315332
+Received ts3
+1460879251315354
+16908 days, 7:47:31.315354
+Received ts4
+1460879224899701
+16908 days, 7:47:04.899701
+Minimum delay offset 26420770.5
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879224899886
+Received ts1
+1460879224889511
+16908 days, 7:47:04.889511
+Received ts2
+1460879251316470
+16908 days, 7:47:31.316470
+Received ts3
+1460879251316493
+16908 days, 7:47:31.316493
+Received ts4
+1460879224899886
+16908 days, 7:47:04.899886
+Minimum delay offset 26421783.0
+Waiting to receive data at peerThread
+getSinceEpoch returning time as 
+1460879224900002
+Received ts1
+1460879224889564
+16908 days, 7:47:04.889564
+Received ts2
+1460879251316529
+16908 days, 7:47:31.316529
+Received ts3
+1460879251316547
+16908 days, 7:47:31.316547
+Received ts4
+1460879224900002
+16908 days, 7:47:04.900002
+Minimum delay offset 26421755.0
+Waiting to receive data at peerThread
+Printing lists in pollProc
+[26419055.5, 26420207.0, 26420770.5, 26421783.0, 26421755.0]
+[3609, 8738, 10235, 10352, 10420]
+getSinceEpoch returning time as 
+1460879225890989
+getSinceEpoch returning time as 
+1460879225891264
+getSinceEpoch returning time as 
+1460879225891362
+getSiSun Apr 17 07:47:11 IST 2016
